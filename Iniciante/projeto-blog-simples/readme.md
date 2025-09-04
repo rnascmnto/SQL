@@ -16,11 +16,12 @@ Este é um projeto de banco de dados que simula o gerenciamento de conteúdo par
 
 ## Como Usar
 
-1. Use uma ferramenta de banco de dados que suporte **MySQL** (Ex: MySQL Workbench, DBeaver, DataGrip).  
-2. Crie um novo banco de dados (ex: `projeto02`).  
-3. Abra o arquivo create_tables.sql, copie todo o conteúdo e execute no seu banco de dados. As tabelas serão criadas. 
-4. Abra o arquivo insert_data.sql, copie e execute o conteúdo para preencher o banco de dados com os dados de exemplo.
-5. Abra o arquivo queries.sql e execute as consultas individualmente para explorar os dados.
+1.  Use uma ferramenta de banco de dados que suporte SQLite (Ex: DB Browser for SQLite, DBeaver, DataGrip).
+2.  Crie um novo banco de dados (ex: `biblioteca.db`).
+3.  Abra o arquivo `create_tables.sql`, copie todo o conteúdo e execute no seu banco de dados. As tabelas serão criadas.
+4.  Abra o arquivo `insert_data.sql`, copie e execute o conteúdo para preencher o banco de dados com os dados de exemplo.
+5.  Abra o arquivo `queries.sql` e execute as consultas individualmente para explorar os dados.
+
 
 
 
